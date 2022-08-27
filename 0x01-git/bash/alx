@@ -2,4 +2,4 @@
 echo echo ALX >> alx
 cat alx
 clear
-echo echo echo ALX
+echo "ALX School"
